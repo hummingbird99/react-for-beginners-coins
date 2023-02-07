@@ -64,7 +64,7 @@ function App() {
                 {choosenCoin.split(",")[0]}(s)!
               </strong>
             ) : (
-              <strong>Please fill out the amount.</strong>
+              <strong>Please fill out the amount..</strong>
             )}
           </div>
         </div>
